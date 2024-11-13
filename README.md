@@ -3,6 +3,9 @@
 Here’s a list of links to datasets for relational learning and inductive logic programming. 
 While it's not exhaustive, I hope you find it helpful!
 
+- [MySQL datasets](https://dev.mysql.com/doc/index-other.html)
+
+
 ## Classic ILP datasets
 
 A collection of benchmark datasets that have been widely used in the field of Inductive Logic Programming (ILP) for developing, testing, and comparing ILP algorithms. 
