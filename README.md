@@ -3,6 +3,8 @@
 Here’s a list of links to datasets for relational learning and inductive logic programming. 
 While it's not exhaustive, I hope you find it helpful!
 
+## Beginner friendly
+
 - [MySQL datasets](https://dev.mysql.com/doc/index-other.html)
 - [Employee DB](https://github.com/datacharmer/test_db)
 
