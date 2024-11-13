@@ -5,23 +5,10 @@ While it's not exhaustive, I hope you find it helpful!
 
 ## Classic ILP datasets
 
-A list of datasets per source.
+A collection of benchmark datasets that have been widely used in the field of Inductive Logic Programming (ILP) for developing, testing, and comparing ILP algorithms. 
 
-* [The CVUT Prague Relational Dataset Repository:](https://relational.fit.cvut.cz/) A large collection of ILP datasets, stored as MariaDB (SQL) datasets.
-  > Motl, Jan, and Oliver Schulte. "The CTU prague relational learning repository." [arXiv preprint arXiv:1511.03086](https://arxiv.org/abs/1511.03086) (2015).
-
-* [ACE data mining system data sets:](https://dtai.cs.kuleuven.be/ACE/doc/) nine ILP datasets in Quinlan's FOIL format, together with scripts to convert them into ACE format (see README.txt in the ZIP).
-These were used in: 
-    > Jan Struyf, Jesse Davis and David Page, An efficient approximation to lookahead in relational learners. In J. Fürnkranz, T. Scheffer and M. Spiliopoulou, editors, Machine Learning: ECML 2006, 17th European Conference on Machine Learning, Proceedings. Lecture Notes in Artificial Intelligence, volume 4212, pages 775-782, Springer, 2006, [Abstract], [BibTeX]. 
-  - Muta188
-  - Muta230
-  - Financial
-  - Sisyphus A
-  - Sisyphus B
-  - UWCSE
-  - Yeast
-  - Carcinogenesis
-  - Bongard
+These datasets are well-known within the ILP community and often include complex, structured data that suits tasks requiring relational learning or reasoning. 
+They serve as standardized test cases for research, enabling consistent evaluation and comparison of different ILP approaches.
 
 * [Alchemy](https://alchemy.cs.washington.edu/data/)  
   - Animals
