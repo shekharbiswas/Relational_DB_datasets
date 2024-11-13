@@ -7,6 +7,25 @@ While it's not exhaustive, I hope you find it helpful!
 
 - [MySQL datasets](https://dev.mysql.com/doc/index-other.html)
 - [Employee DB](https://github.com/datacharmer/test_db)
+- [KDD cup](https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/overview)
+
+## Popular Links
+
+* [Kaggle]
+  - [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/data)
+  - [Outbrain Click Prediction](https://www.kaggle.com/c/outbrain-click-prediction/data)
+  - [Grupo Bimbo Inventory Demand](https://www.kaggle.com/c/grupo-bimbo-inventory-demand)
+* [KDnuggets](https://www.kdnuggets.com/datasets)
+* [Microsoft Research Open Data](https://msropendata.com/)
+* [Registry of Open Data on AWS](https://registry.opendata.aws/)
+* [Awesome Public Datasets Collection](https://github.com/awesomedata/awesome-public-datasets)
+* [San Francisco open data website](https://datasf.org/opendata/)
+  * Restaurants:
+    * https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i
+    * https://blog.bigml.com/2013/10/30/data-preparation-for-machine-learning-using-mysql/
+* [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/) (SNAP)
+* [metapath2vec: Scalable Representation Learning for Heterogeneous Networks](https://ericdongyx.github.io/metapath2vec/m2v.html)
+* [Benchmark data sets for graph kernels](https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets)
 
 
 ## Classic ILP datasets
@@ -110,22 +129,4 @@ They serve as standardized test cases for research, enabling consistent evaluati
   Among others, some ILP datasets. Note: **Internet Archive's Wayback machine link**
 
 
-## Other links:
 
-* [employee data](https://github.com/datacharmer/test_db)
-- [KDD cup 2014](https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose)
-* [Kaggle]
-  - [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/data)
-  - [Outbrain Click Prediction](https://www.kaggle.com/c/outbrain-click-prediction/data)
-  - [Grupo Bimbo Inventory Demand](https://www.kaggle.com/c/grupo-bimbo-inventory-demand)
-* [KDnuggets](https://www.kdnuggets.com/datasets)
-* [Microsoft Research Open Data](https://msropendata.com/)
-* [Registry of Open Data on AWS](https://registry.opendata.aws/)
-* [Awesome Public Datasets Collection](https://github.com/awesomedata/awesome-public-datasets)
-* [San Francisco open data website](https://datasf.org/opendata/)
-  * Restaurants:
-    * https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i
-    * https://blog.bigml.com/2013/10/30/data-preparation-for-machine-learning-using-mysql/
-* [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/) (SNAP)
-* [metapath2vec: Scalable Representation Learning for Heterogeneous Networks](https://ericdongyx.github.io/metapath2vec/m2v.html)
-* [Benchmark data sets for graph kernels](https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets)
