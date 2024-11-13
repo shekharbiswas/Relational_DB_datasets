@@ -108,8 +108,7 @@ They serve as standardized test cases for research, enabling consistent evaluati
 
 
 ## Other links:
-* [MySQL example databases](https://dev.mysql.com/doc/index-other.html)
-  - [Salika](https://dev.mysql.com/doc/sakila/)
+
 * [employee data](https://github.com/datacharmer/test_db)
 - [KDD cup 2014](https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose)
 * [Kaggle]
