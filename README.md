@@ -11,7 +11,7 @@ While it's not exhaustive, I hope you find it helpful!
 
 ## Popular Links
 
-* [Kaggle]
+* Kaggle Datasets
   - [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/data)
   - [Outbrain Click Prediction](https://www.kaggle.com/c/outbrain-click-prediction/data)
   - [Grupo Bimbo Inventory Demand](https://www.kaggle.com/c/grupo-bimbo-inventory-demand)
