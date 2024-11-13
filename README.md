@@ -1,6 +1,7 @@
 # Relational Datasets
 
-A largely incomplete but hopefully useful list of links to datasets for relational learning and inductive logic programming. No guarantees on availability.
+A largely incomplete but hopefully useful list of links to datasets for relational learning and inductive logic programming. 
+(No guarantees on availability.)
 
 ## Classic ILP datasets
 
@@ -68,6 +69,7 @@ These were used in:
   - CiteSeer
   - Boston Housing
   - Drug-Drug Interactions
+    
 * [GILPS:](https://github.com/mdrl/datasets/tree/master/GILPS)
   - alzheimers
   - carcinogenesis
